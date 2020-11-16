@@ -14,9 +14,9 @@ data:
     []
 kind: ConfigMap
 metadata:
-  creationTimestamp: "<AUTO_GENERATED_VALUE>"
+  creationTimestamp: "2020-07-18T22:36:14Z"
   name: aws-auth
   namespace: kube-system
-  resourceVersion: <AUTO_GENERATED_VALUE>
+  resourceVersion: 9675
   selfLink: /api/v1/namespaces/kube-system/configmaps/aws-auth
-  uid: <AUTO_GENERATED_VALUE>
+  uid: 792bc933-dcd5-4b1d-a127-a175d2ea4f6f
